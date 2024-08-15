@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/echarts/5.2.2/echarts.min.js"
+            integrity="sha512-ivdGNkeO+FTZH5ZoVC4gS4ovGSiWc+6v60/hvHkccaMN2BXchfKdvEZtviy5L4xSpF8NPsfS0EVNSGf+EsUdxA=="
+            crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <title>Visualization</title>
+    <style>
+        h1 {
+          font-size: 3em;
+          text-align: center;
+          font-family: Helvetica;
+          color:#1DB954;
+          text-shadow: 1px -1px 0 #233026,  1px 1px 0 #233026;
+        }
+        input[type=submit] {
+            padding:5px 15px;
+            background:#1DB954;
+            border:0 none;
+            cursor:pointer;
+            -webkit-border-radius: 5px;
+            border-radius: 5px;
+            font-size: 1em;
+            font-family: Helvetica;
+            color: white;
+            position: absolute;
+        }
+
+        #display-container {
+            margin: 0 auto;
+        }
+    </style>
+</head>
+
+
+<body style="background-color: #c8e8cf ">
+<div id="heading">
+    <h1>Your Music Statistics</h1>
+</div>
+<form method="GET" action="/">
+    <input type="submit" value="Go Back">
+</form>
+<br><br>
+<div id="display-container" style="height: 600px; width: 600px "></div>
+</div>
+<script>
+        let chart = echarts.init(document.getElementById("display-container"));
+        let option = {{{ this }}}
+    </script>
+</body>
+
+</html>

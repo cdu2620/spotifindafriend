@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.45">
+<file name="/Users/aiyanahuang/Desktop/COLLEGE/17214-Principles of Software/hw6-analytics-framework-spotifindafriend/spotifindafriend/backend/JavaProject/src/main/java/com/spotifindafriend/hw6/visplugins/PieChartPlugin.java">
+</file>
+<file name="/Users/aiyanahuang/Desktop/COLLEGE/17214-Principles of Software/hw6-analytics-framework-spotifindafriend/spotifindafriend/backend/JavaProject/src/main/java/com/spotifindafriend/hw6/visplugins/BarGraphPlugin.java">
+</file>
+<file name="/Users/aiyanahuang/Desktop/COLLEGE/17214-Principles of Software/hw6-analytics-framework-spotifindafriend/spotifindafriend/backend/JavaProject/src/main/java/com/spotifindafriend/hw6/core/MusicFrameworkImpl.java">
+</file>
+<file name="/Users/aiyanahuang/Desktop/COLLEGE/17214-Principles of Software/hw6-analytics-framework-spotifindafriend/spotifindafriend/backend/JavaProject/src/main/java/com/spotifindafriend/hw6/core/DataPlugin.java">
+</file>
+<file name="/Users/aiyanahuang/Desktop/COLLEGE/17214-Principles of Software/hw6-analytics-framework-spotifindafriend/spotifindafriend/backend/JavaProject/src/main/java/com/spotifindafriend/hw6/core/MusicFramework.java">
+</file>
+<file name="/Users/aiyanahuang/Desktop/COLLEGE/17214-Principles of Software/hw6-analytics-framework-spotifindafriend/spotifindafriend/backend/JavaProject/src/main/java/com/spotifindafriend/hw6/core/VisPlugin.java">
+</file>
+<file name="/Users/aiyanahuang/Desktop/COLLEGE/17214-Principles of Software/hw6-analytics-framework-spotifindafriend/spotifindafriend/backend/JavaProject/src/main/java/com/spotifindafriend/hw6/Song.java">
+</file>
+<file name="/Users/aiyanahuang/Desktop/COLLEGE/17214-Principles of Software/hw6-analytics-framework-spotifindafriend/spotifindafriend/backend/JavaProject/src/main/java/com/spotifindafriend/hw6/gui/Plugin.java">
+</file>
+<file name="/Users/aiyanahuang/Desktop/COLLEGE/17214-Principles of Software/hw6-analytics-framework-spotifindafriend/spotifindafriend/backend/JavaProject/src/main/java/com/spotifindafriend/hw6/gui/State.java">
+</file>
+<file name="/Users/aiyanahuang/Desktop/COLLEGE/17214-Principles of Software/hw6-analytics-framework-spotifindafriend/spotifindafriend/backend/JavaProject/src/main/java/com/spotifindafriend/hw6/App.java">
+</file>
+<file name="/Users/aiyanahuang/Desktop/COLLEGE/17214-Principles of Software/hw6-analytics-framework-spotifindafriend/spotifindafriend/backend/JavaProject/src/main/java/com/spotifindafriend/hw6/dataplugins/SpotifyPlugin.java">
+</file>
+<file name="/Users/aiyanahuang/Desktop/COLLEGE/17214-Principles of Software/hw6-analytics-framework-spotifindafriend/spotifindafriend/backend/JavaProject/src/main/java/com/spotifindafriend/hw6/dataplugins/LastFMPlugin.java">
+</file>
+</checkstyle>
